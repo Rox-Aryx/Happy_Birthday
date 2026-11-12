@@ -185,7 +185,7 @@
             ctx.scale(0.75, 0.75);
             ctx.font = "12px 'Lucida Handwriting', 'Comic Sans MS', cursive, sans-serif"; 
             ctx.fillText("Click Me:) ", 30, -5);
-            ctx.fillText("Birthday Queen !", 28, 11);
+            ctx.fillText("Birthday King!", 28, 11);
             ctx.restore();
         },
         clear: function() {
